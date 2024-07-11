@@ -1,0 +1,37 @@
+.container{
+    height: 550px;
+    margin-top: 100px;
+    padding: 30px 0px 10px 50px;
+}
+.fa-solid {
+    color: orange;
+    font-size: larger;
+    opacity: 0.3;
+}
+.fa-regular{
+    opacity: 0.3;
+}
+.row{
+    margin: 10px;
+}
+h1{
+    letter-spacing: 3px;
+    color: orange;
+    margin-left: 290px;
+}
+button{
+    margin: 10px;
+    width: 65.5%;
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    border: 1px solid orange;
+}
+
+input[type=email]{
+    width: 65.5%;
+}
+input{
+    border: 1px solid lightgray;
+    background-color: lightgray;
+}
